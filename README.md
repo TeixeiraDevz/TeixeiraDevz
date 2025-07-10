@@ -1,17 +1,12 @@
 # Bem-vindo ao meu perfil 👋
 
-<div align="left">
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex: 1;">
-      <h2>🚀 Sobre mim</h2>
-      <p>Acadêmico de Engenharia de Software – 6º semestre</p>
-      <p>💻 Desenvolvedor Web Fullstack com interesse em Inteligência Artificial</p>
-    </div>
-    <div style="flex: 0 0 auto; margin-left: 20px;">
-      <img src="Logo.png" width="200" height="200" alt="Logo do Desenvolvedor" style="border-radius: 50%;">
-    </div>
-  </div>
+<div align="right">
+  <img src="Logo.png" width="200" height="200" alt="Logo do Desenvolvedor" style="border-radius: 50%;">
 </div>
+
+**Acadêmico de Engenharia de Software – 6º semestre**
+
+💻 **Desenvolvedor Web Fullstack com interesse em Inteligência Artificial**
 
 ---
 
@@ -62,6 +57,7 @@
 - 📚 **Aprendizado Contínuo** - Sempre em busca de novas tecnologias
 
 ---
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TeixeiraDevz&color=blue" alt="Profile views" />
