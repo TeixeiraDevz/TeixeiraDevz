@@ -1,54 +1,57 @@
 # Bem-vindo ao meu perfil 👋
 
-<div align="center">
-  <img src="https://github.com/seu-usuario/TeixeiraDevz/blob/main/avatar.png" width="200" height="200" alt="Logo do Desenvolvedor" style="border-radius: 50%;">
+<div align="left">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="flex: 1;">
+      <h2>🚀 Sobre mim</h2>
+      <p>Acadêmico de Engenharia de Software – 6º semestre</p>
+      <p>💻 Desenvolvedor Web Fullstack com interesse em Inteligência Artificial</p>
+    </div>
+    <div style="flex: 0 0 auto; margin-left: 20px;">
+      <img src="Logo.png" width="200" height="200" alt="Logo do Desenvolvedor" style="border-radius: 50%;">
+    </div>
+  </div>
 </div>
-
-## 🚀 Sobre mim
-
-Acadêmico de Engenharia de Software – 5º semestre
-
-💻 Desenvolvedor Web Fullstack com interesse em Inteligência Artificial
 
 ---
 
 ## 🛠️ Habilidades com Tecnologias
 
 ### Front-End
-- **HTML** - Estruturação de páginas web
-- **CSS** - Estilização e design responsivo
-- **JavaScript** - Interatividade e dinamismo
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"> **HTML** - Estruturação de páginas web
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"> **CSS** - Estilização e design responsivo
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"> **JavaScript** - Interatividade e dinamismo
 
 ### Back-End
-- **JavaScript** - Desenvolvimento server-side
-- **Node.js** - Runtime JavaScript
-- **TypeScript** - JavaScript tipado
-- **Angular** - Framework para aplicações web
-- **PrimeNG** - Biblioteca de componentes UI
-- **Python** - Linguagem de programação versátil
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"> **JavaScript** - Desenvolvimento server-side
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" height="25"> **Node.js** - Runtime JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" height="25"> **TypeScript** - JavaScript tipado
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25" height="25"> **Angular** - Framework para aplicações web
+- <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" width="25" height="25"> **PrimeNG** - Biblioteca de componentes UI
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"> **Python** - Linguagem de programação versátil
 
 ### Bancos de Dados
-- **MongoDB** - Banco de dados NoSQL
-- **Xampp** - Ambiente de desenvolvimento local
-- **MySQL** - Sistema de gerenciamento de banco de dados
-- **Firebase Studio** - Plataforma de desenvolvimento Google
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25" height="25"> **MongoDB** - Banco de dados NoSQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="25" height="25"> **Xampp** - Ambiente de desenvolvimento local
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"> **MySQL** - Sistema de gerenciamento de banco de dados
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25" height="25"> **Firebase Studio** - Plataforma de desenvolvimento Google
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeixeiraDevz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraDevz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teixeiradev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeixeiraDevz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vteixeira2020@gmail.com)
 
 ---
 
@@ -61,7 +64,7 @@ Acadêmico de Engenharia de Software – 5º semestre
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TeixeiraDevz&color=blue" alt="Profile views" />
 </div>
 
 ---
