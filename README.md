@@ -1,12 +1,16 @@
 # Bem-vindo ao meu perfil 👋
 
-<div align="right">
-  <img src="Logo.png" width="200" height="200" alt="Logo do Desenvolvedor" style="border-radius: 50%;">
-</div>
+<img align="right" src="Logo.png" width="200" height="200" alt="Logo do Desenvolvedor" style="border-radius: 50%;">
 
 **Acadêmico de Engenharia de Software – 6º semestre**
 
-💻 **Desenvolvedor Web Fullstack com interesse em Inteligência Artificial**
+💻 **Desenvolvedor Web Fullstack** com interesse em Inteligência Artificial
+
+🚀 Apaixonado por tecnologia e inovação, sempre em busca de novos desafios
+
+🎯 Focado em criar soluções eficientes e escaláveis
+
+🌱 Atualmente explorando as possibilidades da IA no desenvolvimento web
 
 ---
 
