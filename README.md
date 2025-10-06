@@ -4,36 +4,40 @@
 
 **Acadêmico de Engenharia de Software – 6º semestre**
 
-💻 **Desenvolvedor Web Fullstack** com interesse em Inteligência Artificial
+💻 **Desenvolvedor Back-End Java** com foco em soluções na nuvem AWS
 
 🚀 Apaixonado por tecnologia e inovação, sempre em busca de novos desafios
 
-🎯 Focado em criar soluções eficientes e escaláveis
+🎯 Focado em criar soluções eficientes e escaláveis na nuvem
 
-🌱 Atualmente explorando as possibilidades da IA no desenvolvimento web
+🌱 Atualmente explorando as possibilidades do ecossistema AWS e microserviços
 
 ---
 
 ## 🛠️ Habilidades com Tecnologias
 
-### Front-End
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"> **HTML** - Estruturação de páginas web
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"> **CSS** - Estilização e design responsivo
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"> **JavaScript** - Interatividade e dinamismo
+### Linguagens de Programação
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"> **Java** - Desenvolvimento backend robusto
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="25" height="25"> **Go** - Linguagem para sistemas distribuídos
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"> **Python** - Automação e scripts
 
-### Back-End
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"> **JavaScript** - Desenvolvimento server-side
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" height="25"> **Node.js** - Runtime JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" height="25"> **TypeScript** - JavaScript tipado
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25" height="25"> **Angular** - Framework para aplicações web
-- <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" width="25" height="25"> **PrimeNG** - Biblioteca de componentes UI
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"> **Python** - Linguagem de programação versátil
+### Frameworks e Tecnologias Backend
+- <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="25" height="25"> **Spring Boot** - Framework Java para microserviços
+- <img src="https://quarkus.io/assets/images/quarkus-logo.svg" width="25" height="25"> **Quarkus** - Framework Java nativo para nuvem
+- <img src="https://swagger.io/swagger/media/assets/images/swagger-logo.png" width="25" height="25"> **Swagger** - Documentação de APIs REST
 
-### Bancos de Dados
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25" height="25"> **MongoDB** - Banco de dados NoSQL
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="25" height="25"> **Xampp** - Ambiente de desenvolvimento local
+### Bancos de Dados e SQL
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"> **MySQL** - Sistema de gerenciamento de banco de dados
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25" height="25"> **Firebase Studio** - Plataforma de desenvolvimento Google
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"> **SQL** - Linguagem de consulta estruturada
+- <img src="https://dbeaver.com/wp-content/uploads/2015/09/beaver-head.png" width="25" height="25"> **DBeaver** - Ferramenta de administração de banco de dados
+
+### Containerização e Orquestração
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25" height="25"> **Docker** - Containerização de aplicações
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="25" height="25"> **Kubernetes** - Orquestração de containers
+
+### Infraestrutura como Código e Cloud
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="25" height="25"> **Terraform** - Infraestrutura como código
+- <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="25" height="25"> **AWS** - Amazon Web Services - Plataforma de nuvem
 
 ---
 
@@ -56,8 +60,9 @@
 
 ## 🎯 Interesses
 
-- 🤖 **Inteligência Artificial** - Explorando as possibilidades da IA
-- 🌐 **Desenvolvimento Web** - Criando experiências digitais
+- ☁️ **Computação em Nuvem** - Especializado em soluções AWS
+- 🏗️ **Arquitetura de Microserviços** - Construindo sistemas escaláveis
+- 🐳 **DevOps e Containerização** - Automatização e orquestração
 - 📚 **Aprendizado Contínuo** - Sempre em busca de novas tecnologias
 
 ---
@@ -69,4 +74,4 @@
 
 ---
 
-*"Transformando ideias em código e código em soluções"* ✨
+*"Transformando ideias em código escalável na nuvem"* ☁️✨
