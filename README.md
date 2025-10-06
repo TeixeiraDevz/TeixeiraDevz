@@ -29,7 +29,7 @@
 ### Bancos de Dados e SQL
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"> **MySQL** - Sistema de gerenciamento de banco de dados
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"> **PostgreSQL** - Sistema de gerenciamento de banco de dados
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="25" height="25"> **SQL** - Linguagem de consulta estruturada
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25" height="25"> **SQL** - Linguagem de consulta estruturada
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="25" height="25"> **DBeaver** - Ferramenta de administração de banco de dados
 
 ### Containerização e Orquestração
@@ -38,7 +38,7 @@
 
 ### Infraestrutura como Código e Cloud
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="25" height="25"> **Terraform** - Infraestrutura como código
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="25" height="25"> **AWS** - Amazon Web Services - Plataforma de nuvem
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"> **AWS** - Amazon Web Services - Plataforma de nuvem
 
 ---
 
