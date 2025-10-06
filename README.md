@@ -22,14 +22,15 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"> **Python** - Automação e scripts
 
 ### Frameworks e Tecnologias Backend
-- <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="25" height="25"> **Spring Boot** - Framework Java para microserviços
-- <img src="https://quarkus.io/assets/images/quarkus-logo.svg" width="25" height="25"> **Quarkus** - Framework Java nativo para nuvem
-- <img src="https://swagger.io/swagger/media/assets/images/swagger-logo.png" width="25" height="25"> **Swagger** - Documentação de APIs REST
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" height="25"> **Spring Boot** - Framework Java para microserviços
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="25" height="25"> **Quarkus** - Framework Java nativo para nuvem
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="25" height="25"> **Swagger** - Documentação de APIs REST
 
 ### Bancos de Dados e SQL
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"> **MySQL** - Sistema de gerenciamento de banco de dados
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"> **SQL** - Linguagem de consulta estruturada
-- <img src="https://dbeaver.com/wp-content/uploads/2015/09/beaver-head.png" width="25" height="25"> **DBeaver** - Ferramenta de administração de banco de dados
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"> **PostgreSQL** - Sistema de gerenciamento de banco de dados
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="25" height="25"> **SQL** - Linguagem de consulta estruturada
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="25" height="25"> **DBeaver** - Ferramenta de administração de banco de dados
 
 ### Containerização e Orquestração
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25" height="25"> **Docker** - Containerização de aplicações
@@ -37,7 +38,7 @@
 
 ### Infraestrutura como Código e Cloud
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="25" height="25"> **Terraform** - Infraestrutura como código
-- <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="25" height="25"> **AWS** - Amazon Web Services - Plataforma de nuvem
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="25" height="25"> **AWS** - Amazon Web Services - Plataforma de nuvem
 
 ---
 
