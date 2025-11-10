@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80" alt="Paisagem alpina na Suíça ao amanhecer" style="max-width: 520px; width: 100%; border-radius: 16px; object-fit: cover; height: 240px;" />
 </div>
 
-<h1 align="center">Namastê ☁️ eu sou TeixeiraDevz</h1>
+<h1 align="center"> Oi, Me Chamo Vitor Teixeira!</h1>
 
 <p align="center">
   Acadêmico de Engenharia de Software (6º semestre) • Desenvolvedor Back-End Java • Entusiasta de Arquiteturas Cloud AWS
@@ -111,3 +111,4 @@
 </p>
 
 <p align="center"><em>"Transformando ideias em código escalável na nuvem"</em> ☁️✨</p>
+
