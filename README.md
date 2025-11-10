@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/github/followers/TeixeiraDevz?label=Followers&style=flat-square&color=1abc9c" alt="GitHub Followers" />
 </p>
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=900&q=80" alt="Lago suíço cercado por montanhas" style="max-width: 420px; width: 100%; border-radius: 16px;" />
-</div>
-
 ---
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="Pessoa programando" />
@@ -118,7 +114,7 @@
 </p>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1500043202164-1d00fb0c6c8b?auto=format&fit=crop&w=1200&q=80" alt="Vila suíça iluminada ao entardecer" style="max-width: 720px; width: 100%; border-radius: 16px;" />
+  <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=1400&q=80" alt="Vilarejo suíço iluminado nas montanhas nevadas" style="max-width: 720px; width: 100%; border-radius: 16px;" />
 </div>
 
 ---
