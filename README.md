@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80" alt="Banner - Vale alpino ensolarado" style="max-width: 760px; width: 100%; border-radius: 16px;" />
+  <img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1200&q=80" alt="Paisagem alpina na Suíça ao amanhecer" style="max-width: 620px; width: 100%; border-radius: 16px;" />
 </div>
 
 <h1 align="center">Namastê ☁️ eu sou TeixeiraDevz</h1>
@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/github/stars/TeixeiraDevz?label=Stars&style=flat-square&color=ffd700" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/TeixeiraDevz?label=Followers&style=flat-square&color=1abc9c" alt="GitHub Followers" />
 </p>
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=900&q=80" alt="Lago suíço cercado por montanhas" style="max-width: 420px; width: 100%; border-radius: 16px;" />
+</div>
 
 ---
 
@@ -89,12 +93,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=1200&q=80" alt="Snippet de código em tela escura" style="max-width: 720px; width: 100%; border-radius: 16px;" />
-</div>
-
----
-
 ## 🧱 Tech Stack Atual
 
 <p>
@@ -120,7 +118,7 @@
 </p>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1516908205727-2d02fb212345?auto=format&fit=crop&w=1400&q=80" alt="Vila alpina iluminada durante o inverno" style="max-width: 760px; width: 100%; border-radius: 16px;" />
+  <img src="https://images.unsplash.com/photo-1500043202164-1d00fb0c6c8b?auto=format&fit=crop&w=1200&q=80" alt="Vila suíça iluminada ao entardecer" style="max-width: 720px; width: 100%; border-radius: 16px;" />
 </div>
 
 ---
