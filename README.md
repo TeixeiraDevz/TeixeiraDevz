@@ -16,20 +16,22 @@
 
 ## 👨‍💻 Sobre mim
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 24px; padding: 12px 0;">
-  <div style="flex: 1 1 280px; min-width: 260px;">
-    <ul>
-      <li>🎓 Evoluindo como engenheiro de software e aprofundando conhecimentos em arquiteturas distribuídas</li>
-      <li>☁️ Construindo APIs Java/Spring Boot orientadas a eventos e com pipelines AWS</li>
-      <li>🔁 Automatizando provisionamento com Terraform, Docker e GitHub Actions</li>
-      <li>🧭 Explorando boas práticas de Clean Architecture, DDD e observabilidade</li>
-      <li>🧠 Sempre aprendendo: Go, Quarkus, Kubernetes e padrões de integração</li>
-    </ul>
-  </div>
-  <div style="flex: 0 1 220px;">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Pessoa programando" style="width: 220px; border-radius: 16px; box-shadow: 0 8px 18px rgba(15, 23, 42, 0.25);" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>🎓 Evoluindo como engenheiro de software e aprofundando conhecimentos em arquiteturas distribuídas</li>
+        <li>☁️ Construindo APIs Java/Spring Boot orientadas a eventos e com pipelines AWS</li>
+        <li>🔁 Automatizando provisionamento com Terraform, Docker e GitHub Actions</li>
+        <li>🧭 Explorando boas práticas de Clean Architecture, DDD e observabilidade</li>
+        <li>🧠 Sempre aprendendo: Go, Quarkus, Kubernetes e padrões de integração</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Pessoa programando" style="width: 220px; border-radius: 16px; box-shadow: 0 8px 18px rgba(15, 23, 42, 0.25);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -107,11 +109,5 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80" alt="Vilarejo suíço iluminado nas montanhas" style="max-width: 520px; width: 100%; border-radius: 16px; object-fit: cover; height: 240px;" />
-</div>
-
----
 
 <p align="center"><em>"Transformando ideias em código escalável na nuvem"</em> ☁️✨</p>
