@@ -114,7 +114,7 @@
 </p>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=1400&q=80" alt="Vilarejo suíço iluminado nas montanhas nevadas" style="max-width: 720px; width: 100%; border-radius: 16px;" />
+  <img src="https://images.unsplash.com/photo-1520651521800-3b1b3a5b83ae?auto=format&fit=crop&w=1200&q=80" alt="Paisagem suíça com cidade aos pés dos Alpes" style="max-width: 560px; width: 100%; border-radius: 16px;" />
 </div>
 
 ---
