@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80" alt="Paisagem alpina na Suíça ao amanhecer" style="max-width: 520px; width: 100%; border-radius: 16px; object-fit: cover; height: 240px;" />
 </div>
 
-<h1 align="center">Namastê ☁️ eu sou TeixeiraDevz</h1>
+<h1 align="center"Olá! ☁️ eu sou TeixeiraDevz</h1>
 
 <p align="center">
   Acadêmico de Engenharia de Software (6º semestre) • Desenvolvedor Back-End Java • Entusiasta de Arquiteturas Cloud AWS
@@ -82,9 +82,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>☁️ Cloud Native Toolkit</h3>
-      <p>Provisionamento de infraestrutura AWS com Terraform, pipelines GitHub Actions e monitoramento centralizado com Prometheus + Grafana.</p>
-      <a href="https://github.com/TeixeiraDevz?tab=repositories&q=cloud">🔗 Explorar repositórios</a>
+      <h3>📊 Ar Contabilidade</h3>
+      <p>Plataforma de automação contábil com backend em Java/Spring Boot, integrações via AWS SQS e pipelines Terraform/Docker para provisionamento multiambiente.</p>
+      <a href="https://github.com/TeixeiraDevz?tab=repositories&q=ar-contabilidade">🔗 Ver repositórios</a>
     </td>
     <td width="50%">
       <h3>🧩 Microservices Lab</h3>
