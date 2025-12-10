@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80" alt="Paisagem alpina na Suíça ao amanhecer" style="max-width: 520px; width: 100%; border-radius: 16px; object-fit: cover; height: 240px;" />
 </div>
 
-<h1 align="center"Olá! ☁️ eu sou TeixeiraDevz</h1>
+<h1 align="center"> Olá ☁️ me chamo Vitor Teixeira</h1>
 
 <p align="center">
   Acadêmico de Engenharia de Software (6º semestre) • Desenvolvedor Back-End Java • Entusiasta de Arquiteturas Cloud AWS
@@ -45,11 +45,11 @@
 
 ---
 
-## 📊 GitHub Status
+## 📊 Status do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeixeiraDevz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraDevz&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TeixeiraDevz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TeixeiraDevz&layout=compact&langs_count=8&theme=radical" alt="Principais linguagens" />
 </div>
 
 ---
@@ -87,9 +87,9 @@
       <a href="https://github.com/TeixeiraDevz?tab=repositories&q=ar-contabilidade">🔗 Ver repositórios</a>
     </td>
     <td width="50%">
-      <h3>🧩 Microservices Lab</h3>
-      <p>Laboratórios com Spring Boot, Quarkus e Apache Kafka focados em mensageria, resiliência com Resilience4j e observabilidade com OpenTelemetry.</p>
-      <a href="https://github.com/TeixeiraDevz?tab=repositories&q=microservice">🔗 Explorar repositórios</a>
+      <h3>🤖 Kitai</h3>
+      <p>Assistente inteligente para backoffice financeiro, combinando Angular + PrimeNG no front e microserviços Java em AWS para conciliação de dados em tempo real.</p>
+      <a href="https://github.com/TeixeiraDevz?tab=repositories&q=kitai">🔗 Ver repositórios</a>
     </td>
   </tr>
 </table>
@@ -110,4 +110,19 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
+---
+
+## 🐍 Mapa de Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <p align="center"><em>"Transformando ideias em código escalável na nuvem"</em> ☁️✨</p>
+
