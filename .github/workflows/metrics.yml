@@ -1,0 +1,24 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@v4
+        with:
+          user: TeixeiraDevz
+          filename: assets/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "chore(readme): update github metrics"
+          output_action: commit
+          output_action_commit_message: "chore(readme): update github metrics"
+

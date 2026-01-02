@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <rect width="100%" height="100%" rx="14" fill="#0d1117"/>
+  <text x="24" y="48" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+    GitHub Metrics
+  </text>
+  <text x="24" y="82" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    Execute o workflow "Generate GitHub Metrics" em Actions para gerar este card automaticamente.
+  </text>
+</svg>
+

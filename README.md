@@ -48,8 +48,7 @@
 ## 📊 Status do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeixeiraDevz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraDevz&layout=compact&langs_count=8&theme=radical" alt="Principais linguagens" />
+  <img src="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/main/assets/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
