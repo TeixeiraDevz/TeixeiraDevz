@@ -48,7 +48,7 @@
 ## 📊 Status do GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/main/assets/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/main/assets/github-metrics.svg?v=1" alt="GitHub Metrics" />
 </div>
 
 ---
@@ -115,9 +115,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/output/github-snake.svg?v=1" />
   </picture>
 </p>
 
