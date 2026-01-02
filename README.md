@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TeixeiraDevz&style=flat-square&color=0f4c81" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/TeixeiraDevz?label=Stars&style=flat-square&color=ffd700" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/TeixeiraDevz/TeixeiraDevz?label=Stars&style=flat-square&color=ffd700" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/TeixeiraDevz?label=Followers&style=flat-square&color=1abc9c" alt="GitHub Followers" />
 </p>
 
@@ -48,8 +48,8 @@
 ## 📊 Status do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TeixeiraDevz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TeixeiraDevz&layout=compact&langs_count=8&theme=radical" alt="Principais linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeixeiraDevz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraDevz&layout=compact&langs_count=8&theme=radical" alt="Principais linguagens" />
 </div>
 
 ---
