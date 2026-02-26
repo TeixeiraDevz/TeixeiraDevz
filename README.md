@@ -5,7 +5,7 @@
 <h1 align="center"> Olá ☁️ me chamo Vitor Teixeira</h1>
 
 <p align="center">
-  Acadêmico de Engenharia de Software (6º semestre) • Desenvolvedor Back-End Java • Entusiasta de Arquiteturas Cloud AWS
+  Acadêmico de Engenharia de Software (7º semestre) • Desenvolvedor Back-End Java • Entusiasta de Arquiteturas Cloud AWS
 </p>
 
 <p align="center">
@@ -42,14 +42,6 @@
   <a href="https://linkedin.com/in/teixeiradev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/TeixeiraDevz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
----
-
-## 📊 Status do GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TeixeiraDevz/TeixeiraDevz/main/assets/github-metrics.svg?v=1" alt="GitHub Metrics" />
-</div>
 
 ---
 
