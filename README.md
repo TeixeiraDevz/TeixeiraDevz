@@ -5,7 +5,7 @@
 <h1 align="center"> Olá ☁️ me chamo Vitor Teixeira</h1>
 
 <p align="center">
-  Acadêmico de Engenharia de Software (7º semestre) • Desenvolvedor Back-End Java • Entusiasta de Arquiteturas Cloud AWS
+  Acadêmico de Engenharia de Software (8º semestre) • Engenheiro de Nuvem Java • Entusiasta de Arquiteturas Cloud AWS
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="mailto:vteixeira2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/teixeiradev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vitorteixeiraa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/TeixeiraDevz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
